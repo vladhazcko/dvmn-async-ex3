@@ -1,7 +1,12 @@
 # Virtual enviroment
 env/
+env-ubuntu/
 .env
+.venv
 
 # Python/PyCharm directories
 __pycache__/
 .idea/
+
+# Other folders
+/test
