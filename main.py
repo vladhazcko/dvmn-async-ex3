@@ -1,6 +1,5 @@
 import asyncio
 from asyncio import subprocess
-import time
 
 
 def main():

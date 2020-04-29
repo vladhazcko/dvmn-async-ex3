@@ -1,6 +1,5 @@
 # Virtual enviroment
 env/
-env-ubuntu/
 .env
 .venv
 
@@ -8,5 +7,6 @@ env-ubuntu/
 __pycache__/
 .idea/
 
-# Other folders
+# Test sources
 /test
+test.zip
